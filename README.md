@@ -1,2 +1,2 @@
 # G.UT.S: golang utils
-Utils for Go language
+Small and self contained utils for Go language
